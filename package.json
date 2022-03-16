@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Jest project for Bootcamp",
   "main": "index.js",
-  "scripts" : {
+  "scripts": {
     "test": "jest"
   },
   "repository": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/NumiBlue/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.1"
   }
 }
